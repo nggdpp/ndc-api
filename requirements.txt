@@ -29,7 +29,6 @@ numpy==1.16.2
 pandas==0.24.1
 parserutils==1.1.2
 pymongo==3.7.2
--e git+https://github.com/nggdpp/pynggdpp.git@bc584273f5ff62d09666dee016a1f6033906c0a9#egg=pynggdpp
 pyrsistent==0.14.11
 python-dateutil==2.8.0
 pytz==2018.9
